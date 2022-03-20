@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T00:09:36.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="lbey2dK6ssqYeeLY-guO" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T00:12:53.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0DD2lu-Gpjh3juGAh5PS" version="17.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1017" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="D4E2PZCJO_n_XdzNgnJV-0" value="Pessoa" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="10" width="160" height="180" as="geometry">
+          <mxGeometry x="10" y="10" width="160" height="180" as="geometry">
             <mxRectangle x="210" y="700" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -122,7 +122,7 @@
         <mxCell id="D4E2PZCJO_n_XdzNgnJV-58" value="- agendamentosTotais : Int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="D4E2PZCJO_n_XdzNgnJV-52" vertex="1">
           <mxGeometry y="52" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="D4E2PZCJO_n_XdzNgnJV-59" value="- pagamentosTotais : Int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="D4E2PZCJO_n_XdzNgnJV-52" vertex="1">
+        <mxCell id="D4E2PZCJO_n_XdzNgnJV-59" value="- pagamentosTotais : float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="D4E2PZCJO_n_XdzNgnJV-52" vertex="1">
           <mxGeometry y="78" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D4E2PZCJO_n_XdzNgnJV-55" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="D4E2PZCJO_n_XdzNgnJV-52" vertex="1">
